@@ -9,6 +9,5 @@ namespace HeightsAuction.BLL.Contracts
     public interface IMessageService
     {
         Task SendMessage(string user, string message);
-
     }
 }
