@@ -8,7 +8,7 @@ This application is designed to facilitate real-time interactions among users du
 
 ## Design Decisions
 
-1. **Framework**: .NET 6 for robustness and scalability.
+1. **Framework**: .NET 8 for robustness and scalability.
 2. **Real-time Communication**: SignalR for real-time messaging and notifications.
 3. **Database**: SQL Server for reliable data management and Entity Framework Core for ORM.
 4. **Payment Gateway**: Paystack for easy payment processing.
